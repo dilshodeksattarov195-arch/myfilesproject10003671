@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceperify",
+        "uuid": 23784409,
+        "checksum": "xqgyk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
